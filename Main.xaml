@@ -79,6 +79,6 @@
         </ActivityAction>
       </ui:OpenBrowser.Body>
     </ui:OpenBrowser>
-    <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" AutoCloseAfter="00:00:00" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="466.666666666667,85.3333333333333" sap2010:WorkflowViewState.IdRef="MessageBox_1" Text="[&quot;UiPathGitlabdemo&quot;]" />
+    <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" AutoCloseAfter="00:00:00" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="466.666666666667,85.3333333333333" sap2010:WorkflowViewState.IdRef="MessageBox_1" Text="[&quot;UiPath Gitlabdemo&quot;]" />
   </Sequence>
 </Activity>
